@@ -1,0 +1,23 @@
+.Tour-Div
+{
+
+    background-color:rgb(254, 255, 218);
+    margin: 10px;
+    border: 5px solid rgb(68, 61, 61);
+    text-align: center;
+    
+}
+
+
+
+.Tour-img
+{
+    width: 800px;
+    height: 600px;
+}
+
+.h2-deco{
+    text-decoration: none;
+    color:rgba(77, 18, 30, 0.897);
+    font-size: 30px;
+}
