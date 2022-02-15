@@ -1,0 +1,23 @@
+.Tour-card
+{
+    background-color:rgb(254, 255, 218);
+    margin: 50px 400px 400px 400px;
+    border: 5px solid rgb(68, 61, 61);
+    text-align: center;
+    text-decoration: none;
+}
+
+.Tour-img
+{
+    width: 400px;
+    height: 300px;
+}
+
+.nav
+{
+    color:black;
+    text-decoration: none;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:rgba(77, 18, 30, 0.897);
+    color:wheat;
+}

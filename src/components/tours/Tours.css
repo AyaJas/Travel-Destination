@@ -1,23 +1,26 @@
-div
+.Tour-Divt
 {
 
     background-color:rgb(254, 255, 218);
-    margin: 10px;
+    margin: 20px;
     border: 5px solid rgb(68, 61, 61);
     text-align: center;
-    
+    text-decoration: none;
 }
 
 
-h2 
+h2:hover
 {
 
     color:rgba(77, 18, 30, 0.897);
-    font-size: 30px;
+    font-size: 30px; 
+    text-decoration: none;
 
 }
 
-img
+.Tour-imgt
 {
-    width: 800px;
+    width: 650px;
+    height: 450px;
+    
 }

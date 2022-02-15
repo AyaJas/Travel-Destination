@@ -1,13 +1,14 @@
-h4 
+.h4 
 { 
     color:rgb(254, 255, 218);
     background-color:rgb(48, 11, 18);
     font-size: 20px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-items: center;   
 }
 
 
-  .fa {
+.fa {
     padding: 10px;
     font-size: 20px;
     width: 20px;
